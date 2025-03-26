@@ -150,7 +150,7 @@ const Footer = () => {
           <div className="container-fluid">
           <p className="m-0">
             &copy; <a href="#">CarDetailing</a>, All Right Reserved. Designed By{" "}
-            <a href="https://atappisoft.com/index" target="_blank" rel="noopener noreferrer">AtAppiSoft</a>
+            <a href="https:https://www.atappisoft.com/" target="_blank" rel="noopener noreferrer">AtAppiSoft</a>
           </p>
         </div>
       </section> */}
